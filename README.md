@@ -1,4 +1,4 @@
-[![N|Banner](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/banner.png)](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/banner.png)
+[![N|Banner](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/banner2.png)](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/banner.png)
 
 # ScreenShot
 [![N|screen1](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/screen1.jpg)](https://raw.githubusercontent.com/seifhjh/Netflix-redesign/master/images/screen1.jpg)
